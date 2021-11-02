@@ -1,7 +1,8 @@
 # open-thermopile-dataset
 
 ```diff
-- Whilst the paper is still in review, a small sample of the data is shown. On acceptance this repository will be updated with the full dataset.
+- Whilst the paper is still in review, a small sample of the data is shown. 
+- On acceptance this repository will be updated with the full dataset.
 ```
 
 For more information about this dataset see the published article.  
