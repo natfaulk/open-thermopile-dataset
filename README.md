@@ -1,7 +1,7 @@
 # open-thermopile-dataset
 
 For more information about this dataset see the published article.  
-For data citation, please cite the published article.  
+For data citation, please cite the [published article](10.1109/JIOT.2022.3161646). DOI: [10.1109/JIOT.2022.3161646](https://doi.org/10.1109/JIOT.2022.3161646)  
 
 ## Data format
 
